@@ -4,3 +4,8 @@ from funciones_habitos import analizar_habitos
 
 lista_actividades = registrar_habitos()
 diccionario_actividades = analizar_habitos(lista_actividades)
+
+
+
+print(lista_actividades)
+print(diccionario_actividades)
