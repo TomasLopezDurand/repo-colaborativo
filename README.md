@@ -1,7 +1,6 @@
 # mi-primer-repositorio
 
-Nombre: Tomás López Durand
+Nombres: Tomás López Durand, Ema Nielsen
 
-Carrera: Ciencias del Comportamiento
+Primer repositorio colaborativo
 
-Este repositorio fue creado para aprender a usar Git y GitHub en la materia Programación.
