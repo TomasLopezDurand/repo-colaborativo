@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 13 16:51:05 2026
+import funciones_habitos
 
-@author: Tomas Lopez Durand
-"""
-
+actividades = input("Ingrese sus actividades diarias")
