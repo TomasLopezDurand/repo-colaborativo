@@ -1,6 +1,6 @@
 # mi-primer-repositorio
 
-Nombres: Tomás López Durand, Ema Nielsen, Conrado Soldo Palomares
+Nombres: Tomás López Durand, Ema Nielsen
 
 Primer repositorio colaborativo
 
